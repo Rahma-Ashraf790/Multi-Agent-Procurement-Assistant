@@ -1,5 +1,0 @@
-gradio
-crewai==0.86.0
-litellm==1.55.3
-python-dotenv
-tavily-python
